@@ -21,9 +21,8 @@ Estou sempre buscando aprender mais e me aprimorar nas tecnologias que mais gost
 
 ## 🚀 Conecte-se comigo
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- [Twitter](https://twitter.com/seu-perfil)
-- [Portfólio ou Blog (se tiver)](https://seu-portfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/elton-kasesky-1682a229b/)
+- [Instagram]([https://twitter.com/seu-perfil](https://www.instagram.com/elton.kasesky/))
 
 Estou aberto a colaborações, feedbacks e sempre disposto a aprender mais!
 
@@ -40,17 +39,19 @@ Se você tem alguma dúvida, sugestão ou quer bater um papo sobre tecnologia, s
 Aqui estão as tecnologias com as quais mais trabalho:
 
 ### Node.js
-![Node.js](https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Node.js.svg)
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
 
 ### JavaScript (ES6+)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
 
 ### Next.js
-![Next.js](https://upload.wikimedia.org/wikipedia/commons/a/a2/Next.js_Logo.svg)
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
 
-### HTML5 & CSS3
-![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/HTML5_logo.svg/800px-HTML5_logo.svg.png)
-![CSS3](https://upload.wikimedia.org/wikipedia/commons/a/a7/CSS3_logo.svg)
+### HTML5
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+
+### CSS3
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
 
 ### Tailwind CSS
-![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/4/47/Tailwind_CSS_Logo.svg)
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
