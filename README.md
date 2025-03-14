@@ -13,7 +13,7 @@ Estou sempre buscando aprender mais e me aprimorar nas tecnologias que mais gost
 - Focado na melhoria de minhas habilidades em arquitetura de sistemas e otimização de código.
 
 ## 📚 Estudo e Aprendizado
-- **Faculdade de [Nome da Faculdade]** - Cursando [Curso].
+- **Faeterj - Petrópolis** - Cursando [Tecnologia da Informação e Comunicação].
 - **Residência Serratec** - Aperfeiçoando minhas habilidades em desenvolvimento de software.
 - Sempre em busca de novos tutoriais, cursos e documentações para melhorar meu conhecimento.
 
