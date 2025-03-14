@@ -8,7 +8,7 @@ Estou sempre buscando aprender mais e me aprimorar nas tecnologias que mais gost
 ---
 
 ## 📚 Estudo e Aprendizado
-- **Faeterj - Petrópolis** - Cursando [Tecnologia da Informação e Comunicação].
+- **Faeterj - Petrópolis** - Cursando **Tecnologia da Informação e Comunicação**.
 - **Residência Serratec** - Aperfeiçoando minhas habilidades em desenvolvimento de software.
 - Sempre em busca de novos tutoriais, cursos e documentações para melhorar meu conhecimento.
 
@@ -17,7 +17,7 @@ Estou sempre buscando aprender mais e me aprimorar nas tecnologias que mais gost
 ## 🚀 Conecte-se comigo
 
 - [LinkedIn](https://www.linkedin.com/in/elton-kasesky-1682a229b/)
-- [Instagram]((https://www.instagram.com/elton.kasesky/))
+- [Instagram](https://www.instagram.com/elton.kasesky/)
 
 Estou aberto a colaborações, feedbacks e sempre disposto a aprender mais!
 
