@@ -7,11 +7,6 @@ Estou sempre buscando aprender mais e me aprimorar nas tecnologias que mais gost
 
 ---
 
-## 💻 Projetos em andamento:
-- Desenvolvimento de aplicações web utilizando **Next.js** e **Tailwind CSS**.
-- Projetos de backend com **Node.js** e **JavaScript**.
-- Focado na melhoria de minhas habilidades em arquitetura de sistemas e otimização de código.
-
 ## 📚 Estudo e Aprendizado
 - **Faeterj - Petrópolis** - Cursando [Tecnologia da Informação e Comunicação].
 - **Residência Serratec** - Aperfeiçoando minhas habilidades em desenvolvimento de software.
