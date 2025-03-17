@@ -8,6 +8,7 @@ Estou sempre buscando aprender mais e me aprimorar nas tecnologias que mais gost
 ---
 
 ## 📚 Estudo e Aprendizado
+- **Firjan Senai Petrópolis** - Formado como **Técnico de Tecnologia da Informação**.
 - **Faeterj - Petrópolis** - Cursando **Tecnologia da Informação e Comunicação**.
 - **Residência Serratec** - Aperfeiçoando minhas habilidades em desenvolvimento de software.
 - Sempre em busca de novos tutoriais, cursos e documentações para melhorar meu conhecimento.
