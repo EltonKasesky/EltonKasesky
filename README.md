@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios! Tenho 18 anos, estou na faculdade e sou formado como Técnico em T.I. Atualmente, também estou cursando a residência do Serratec, onde continuo a aprimorar minhas habilidades.
+Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios! Tenho 19 anos, estou na faculdade e sou formado como Técnico em T.I. Atualmente, também estou cursando a residência do Serratec, onde continuo a aprimorar minhas habilidades.
 Estou sempre buscando aprender mais e me aprimorar nas tecnologias que mais gosto. Meu foco é criar soluções eficientes e de fácil manutenção, com uma boa experiência de usuário.
 
 ---
